@@ -16,11 +16,10 @@
 ![Image](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
 ![Image](https://img.shields.io/badge/ReactNative-CC6699?style=for-the-badge&logo=react&logoColor=white)
 ![Image](https://img.shields.io/badge/Json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![Image](https://img.shields.io/badge/ООП-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Image](https://img.shields.io/badge/ООП -323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Image](https://img.shields.io/badge/-Stiyled-Component-1572B6?style=for-the-badge&logo=css)
+![Image](https://img.shields.io/badge/-Stiyled-Component-1572B6?style=for-the-badge&logo=css3)
 ![Image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Image](https://img.shields.io/badge/React-Router-Dom -E10098?style=for-the-badge&logo=react)
 ![Image](https://img.shields.io/badge/-Ajax -E10098?style=for-the-badge&logo=graphql)
 ![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
             
